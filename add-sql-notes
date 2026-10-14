@@ -1,1 +1,5 @@
-trying for the round 2
+   # SQL Notes
+
+   - **ROW_NUMBER()**: gives each row a unique number within a group; I use it to dedupe append-only tables.
+   - **RANK()**: like ROW_NUMBER, but ties get the same rank and the next number is skipped.
+   - **LAG()**: reads a value from the previous row, useful for comparing a status with its earlier one.
