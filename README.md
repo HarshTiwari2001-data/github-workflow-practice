@@ -1,2 +1,3 @@
-# github-workflow-practice
-Learning the Git branch → commit → pull request → merge workflow
+   # GitHub Workflow Practice
+
+   Practising the professional Git workflow as part of my Data Engineering roadmap.
